@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Excel_tool.Controllers;
+using Excel_tool.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +18,13 @@ namespace Excel_tool
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            // Initialize the model and controller
+            ExcelModel model = new ExcelModel();
+            ExcelController controller = new ExcelController(model);
+
+            // Run the form (view) and pass the controller
+            Application.Run(new MainForm(controller));
         }
     }
 }
