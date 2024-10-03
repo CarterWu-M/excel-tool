@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\bin\Debug\Excel_tool.exe.config
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\bin\Debug\Excel_tool.exe
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\bin\Debug\Excel_tool.pdb
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.MainForm.resources
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.exe
+C:\Users\ASUS\Desktop\Excel_tool - (MVC)\Excel_tool\obj\Debug\Excel_tool.pdb
